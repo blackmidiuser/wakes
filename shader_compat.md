@@ -14,7 +14,7 @@ In some cases there will be an option to disable this.
 
 ### Known incompatibilties
 - LS RenderPearl
-- BSL (can't figure out how to turn off wavy water, aside from that it works fine)
+- BSL (Disabling TAA under Anti-aliasing fixes Z-fighting)
 - Overimagined Shaders (works when camera is close to the water)
 
 ## Optifine shaders
